@@ -1,0 +1,12 @@
+Debug/
+Release/
+*.out
+*.map
+*.hex
+*.bin
+*.obj
+*.o
+*.d
+*.log
+.vscode/
+.metadata/
